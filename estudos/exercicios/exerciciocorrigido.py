@@ -1,4 +1,4 @@
-numeros = input("Digite numeros inteiros separados por espaço: ").split()
+numeros = input("Digite numeros inteiros separados por espaço: ").split(" ")
 numerosRecebidos = []
 
 for valor in numeros:
