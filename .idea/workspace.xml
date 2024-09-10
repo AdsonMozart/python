@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45254e25-f135-41db-8609-d50160f43624" name="Changes" comment="" />
+    <list default="true" id="45254e25-f135-41db-8609-d50160f43624" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/estudos/segundo_modulo/dicionarios/lista_metodos_dicionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/segundo_modulo/dicionarios/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudos/segundo_modulo/conjuntos/conjuntos.py" beforeDir="false" afterPath="$PROJECT_DIR$/estudos/segundo_modulo/conjuntos/conjuntos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudos/segundo_modulo/dicionarios/dicionario.py" beforeDir="false" afterPath="$PROJECT_DIR$/estudos/segundo_modulo/dicionarios/dicionario.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -30,20 +36,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.dicionario.executor": "Run",
     "Python.exercicio_exibirpoema_funcoes.executor": "Run",
     "Python.funcoes_.executor": "Run",
     "Python.funcoes_operacoes_escolpos.executor": "Run",
     "Python.funcoes_parte1.executor": "Run",
     "Python.funcoes_parte2.executor": "Run",
+    "Python.lista_metodos_dicionario.executor": "Run",
     "Python.listas_criacao_acesso_aos_dados.executor": "Run",
     "Python.listas_metodos_de_classe.executor": "Run",
     "Python.ordenando_lista_em_decrescente.executor": "Run",
     "Python.sistema_bancario.executor": "Run",
     "Python.strings_fatiamento.executor": "Run",
     "Python.strings_interpolacao.executor": "Run",
+    "Python.teste.executor": "Run",
     "Python.tuplas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }

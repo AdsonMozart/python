@@ -85,7 +85,7 @@ numeros_c.pop()
 print(numeros_c)
 
 
-# {}.remove remove um elemento de sua lista, a diferença para o discard é que se o elemento não existir ele dá erro
+# {}.remove um elemento de sua lista, a diferença para o discard é que se o elemento não existir ele dá erro
 numeros_d = {1, 2, 3, 1, 2, 4, 5, 5, 6, 7, 8, 9, 0}
 print(numeros_d)
 numeros_d.remove(2)
