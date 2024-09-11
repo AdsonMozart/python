@@ -13,3 +13,4 @@ for valor in numeros:
 
 numerosRecebidos.sort(reverse=True)
 print("Lista de numeros inteiros em ordem decrescente", numerosRecebidos)
+print("Lista de numeros inteiros em ordem decrescente", numerosRecebidos)
