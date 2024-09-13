@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45254e25-f135-41db-8609-d50160f43624" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/estudos/segundo_modulo/data_horas_datetime/datetime__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/segundo_modulo/data_horas_datetime/formatacao_parte2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/segundo_modulo/data_horas_datetime/formatando_convertendo_datas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/segundo_modulo/data_horas_datetime/pytz_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/segundo_modulo/data_horas_datetime/timedelta_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudos/segundo_modulo/dicionarios/lista_metodos_dicionario.py" beforeDir="false" afterPath="$PROJECT_DIR$/estudos/segundo_modulo/dicionarios/lista_metodos_dicionario.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,29 +35,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.dicionario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio_exibirpoema_funcoes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcoes_.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcoes_operacoes_escolpos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcoes_parte1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcoes_parte2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lista_metodos_dicionario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listas_criacao_acesso_aos_dados.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listas_metodos_de_classe.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ordenando_lista_em_decrescente.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema_bancario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strings_fatiamento.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strings_interpolacao.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuplas.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.datetime.executor": "Run",
+    "Python.datetime__.executor": "Run",
+    "Python.dicionario.executor": "Run",
+    "Python.exercicio_exibirpoema_funcoes.executor": "Run",
+    "Python.formatacao_parte2.executor": "Run",
+    "Python.formatando_convertendo_datas.executor": "Run",
+    "Python.funcoes_.executor": "Run",
+    "Python.funcoes_operacoes_escolpos.executor": "Run",
+    "Python.funcoes_parte1.executor": "Run",
+    "Python.funcoes_parte2.executor": "Run",
+    "Python.lista_metodos_dicionario.executor": "Run",
+    "Python.listas_criacao_acesso_aos_dados.executor": "Run",
+    "Python.listas_metodos_de_classe.executor": "Run",
+    "Python.ordenando_lista_em_decrescente.executor": "Run",
+    "Python.pytz_.executor": "Run",
+    "Python.sistema_bancario.executor": "Run",
+    "Python.strings_fatiamento.executor": "Run",
+    "Python.strings_interpolacao.executor": "Run",
+    "Python.testando_data.executor": "Run",
+    "Python.teste.executor": "Run",
+    "Python.timedelta_.executor": "Run",
+    "Python.tuplas.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,5 +82,16 @@
       <updated>1725367651620</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
