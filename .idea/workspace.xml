@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45254e25-f135-41db-8609-d50160f43624" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/estudos/segundo_modulo/data_horas_datetime/datetime__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/segundo_modulo/data_horas_datetime/formatacao_parte2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/segundo_modulo/data_horas_datetime/formatando_convertendo_datas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/segundo_modulo/data_horas_datetime/pytz_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudos/segundo_modulo/data_horas_datetime/timedelta_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/segundo_modulo/data_horas_datetime/desafio/desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudos/segundo_modulo/data_horas_datetime/pytz_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudos/segundo_modulo/data_horas_datetime/pytz_.py" beforeDir="false" afterPath="$PROJECT_DIR$/estudos/segundo_modulo/data_horas_datetime/pytz_.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +37,7 @@
   "keyToString": {
     "Python.datetime.executor": "Run",
     "Python.datetime__.executor": "Run",
+    "Python.desafio.executor": "Run",
     "Python.dicionario.executor": "Run",
     "Python.exercicio_exibirpoema_funcoes.executor": "Run",
     "Python.formatacao_parte2.executor": "Run",
@@ -52,6 +51,7 @@
     "Python.listas_metodos_de_classe.executor": "Run",
     "Python.ordenando_lista_em_decrescente.executor": "Run",
     "Python.pytz_.executor": "Run",
+    "Python.pytz_2.executor": "Run",
     "Python.sistema_bancario.executor": "Run",
     "Python.strings_fatiamento.executor": "Run",
     "Python.strings_interpolacao.executor": "Run",
